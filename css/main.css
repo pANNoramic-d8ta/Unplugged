@@ -264,12 +264,19 @@ aside {
 }
 
 .faq h2 {
-  margin-bottom: 40px;
+margin: 40px;
 }
 
 .faq-content {
-  margin-bottom: 50px;
+margin-bottom: 50px;
 }
+
+
+
+
+
+
+
 
 
 /* ==========================================================================
