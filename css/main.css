@@ -302,12 +302,16 @@ input[type=button] {
   background-size: cover;
 }
 
-
-}
-
 .features h2 {
   margin-bottom: 60px;
 }
+
+.features i {
+	font-size: 3.75em;
+    margin-bottom: 40px;
+}
+
+.fa 
 
 .features article {
   width: 63%;
